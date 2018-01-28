@@ -27,7 +27,7 @@ javac AirTrafficControl.java
 java AirTrafficControl
 ```
 
-The will output to the console the results of the method calls.
+This will output to the console, the results of the method calls.
 
 ## Authors
 
